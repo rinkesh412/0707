@@ -1,0 +1,21 @@
+{
+  "name": "0707",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@pienter/gridsome-source-directus": "^1.0.2",
+    "gridsome": "^0.7.0",
+    "jquery": "^3.4.1",
+    "jquery-modal": "^0.9.2",
+    "jquery-ui": "^1.12.1",
+    "vue-fullpage.js": "^0.1.4",
+    "vue-slick": "^1.1.15"
+  },
+  "devDependencies": {
+    "assets-loader": "^0.5.2"
+  }
+}

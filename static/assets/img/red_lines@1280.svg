@@ -1,0 +1,10 @@
+<svg id="Grid_Graph" data-name="Grid&amp;Graph" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="803.6" viewBox="0 0 1280 803.6">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.719" y1="1.285" x2="0.448" y2="0.313" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.051"/>
+    </linearGradient>
+  </defs>
+  <path id="Graph" d="M1280,133V803.6L0,803.5V647.7l61.6-22.4,192.9,4.5h.2l193-134.2L640,467.5l.6-.1h.1l.3-.3L833,316.7l.6-.5.4.1L1026,351l.4.1h.2l.4-.2,192-124.6.8-.5.1-.1.1-.2Z" fill="url(#linear-gradient)"/>
+  <path id="Grid" d="M1280,131.1V133l-60,92.5-.1.2-.1.1-.8.5L1027,350.9l-.4.2h-.2l-.4-.1L834,316.3l-.4-.1-.6.5L641,467.1l-.3.3h-.1l-.6.1L447.7,495.6l-193,134.2h-.2L61.6,625.3,0,647.7v-1l61-22.2V0h1V624.4l192,4.4V0h1V628.3L447,494.8V0h1V494.5l192-28V0h1V465.9L833,315.5V0h1V315.3L1026,350V0h1V349.7l192-124.6V0h1V223.6Z" fill="#fff" opacity="0.1"/>
+</svg>
